@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/07/16 18:54:41.000.313,=C:\Users\Fefe\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/07/16 19:18:49.000.509,C:\Users\Fefe\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Fefe\Documents\Embarcadero\Studio\Projects\uPrincipal.pas</Transaction>
+    <Transaction>2020/07/16 19:18:49.000.509,C:\Users\Fefe\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Fefe\Documents\Embarcadero\Studio\Projects\uPrincipal.dfm</Transaction>
+    <Transaction>2020/07/16 19:18:54.000.630,C:\Users\Fefe\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Fefe\Documents\Embarcadero\Studio\Projects\TESTE.dproj</Transaction>
+    <Transaction>2022/06/30 18:55:48.000.868,=C:\Users\Fefe\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/06/30 19:08:22.000.480,C:\Users\Fefe\Documents\Embarcadero\Studio\Projects\uDados.pas=C:\Users\Fefe\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/07/04 08:56:23.670,=C:\Users\Fefe\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/07/04 09:09:56.993,C:\Users\Fefe\Documents\Embarcadero\Studio\Projects\UDataMPrincipal.pas=C:\Users\Fefe\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/07/04 09:09:56.993,C:\Users\Fefe\Documents\Embarcadero\Studio\Projects\UDataMPrincipal.dfm=C:\Users\Fefe\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/07/04 09:48:23.608,C:\Users\Fefe\Documents\Embarcadero\Studio\Projects\uControllerDados.pas=C:\Users\Fefe\Documents\Embarcadero\Studio\Projects\uDados.pas</Transaction>
+    <Transaction>2022/07/04 09:50:55.764,=C:\Users\Fefe\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/07/04 09:51:06.516,C:\Users\Fefe\Documents\Embarcadero\Studio\Projects\uModelDados.pas=C:\Users\Fefe\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
